@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, my name is Danielle Ledesma Lunas
 
 - 🔭 I’m currently working on (not yet).
-- 🌱 I’m currently learning Backend Development and many more.
+- 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on (not yet).
 - 🤔 I’m looking for help with (not yet).
 - 💬 Ask me about anything (related on programming or myself).
