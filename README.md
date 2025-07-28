@@ -44,9 +44,6 @@ Aspiring Full-Stack Developer from the Philippines.
 ### 🚀 My Projects:
 
 <p align="center">
-    <a href="https://github.com/miracl3-dreams/fta-management-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miracl3-dreams&repo=fta-management-api&theme=dark" alt="FTA-MANAGEMENT-API" />
-    </a>
     <a href="https://github.com/miracl3-dreams/python-chatbot-api">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=miracl3-dreams&repo=python-chatbot-api&theme=dark" alt="python-chatbot-api" />
     </a>
