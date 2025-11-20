@@ -1,4 +1,4 @@
-# Hey, I'm Danielle Ledesma Lunas 👋
+# Hey, Dude 👋
 
 Aspiring Full-Stack Developer from the Philippines.
 
