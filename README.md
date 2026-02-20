@@ -39,31 +39,6 @@ Aspiring Full-Stack Developer from the Philippines.
 
 ---
 
-### 🚀 My Projects:
-
-<p align="center">
-    <a href="https://github.com/miracl3-dreams/python-chatbot-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miracl3-dreams&repo=python-chatbot-api&theme=dark" alt="python-chatbot-api" />
-    </a>
-    <a href="https://github.com/miracl3-dreams/task-management-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miracl3-dreams&repo=task-management-api&theme=dark" alt="task-management-api" />
-    </a>
-    <a href="https://github.com/miracl3-dreams/aag-ecommerce-fe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miracl3-dreams&repo=aag-ecommerce-fe&theme=dark" alt="aag-ecommerce-fe" />
-    </a>
-    <a href="https://github.com/miracl3-dreams/kgw-ecommerce-fe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miracl3-dreams&repo=kgw-ecommerce-fe&theme=dark" alt="kgw-ecommerce-fe" />
-    </a>
-    <a href="https://github.com/miracl3-dreams/my-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miracl3-dreams&repo=my-portfolio&theme=dark" alt="my-portfolio" />
-    </a>
-    <a href="https://github.com/miracl3-dreams/hc-management-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miracl3-dreams&repo=hc-management-api&theme=dark" alt="hc-management-api" />
-    </a>
-    </p>
-
----
-
 ### 📈 GitHub Stats:
 
 <p align="center">
