@@ -39,15 +39,6 @@ Aspiring Full-Stack Developer from the Philippines.
 
 ---
 
-### 📈 GitHub Stats:
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=miracl3-dreams&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20" alt="Miracl3's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracl3-dreams&layout=compact&theme=dark&hide_progress=true&exclude_repo=my-portfolio" alt="Most Used Languages" />
-</p>
-
----
-
 ### 🤝 Connect with me:
 
 Feel free to reach out if you have questions, project ideas, or just want to chat!
